@@ -5,5 +5,5 @@
 using namespace std;
 
 void Writemessage(string message, bool printTop = true, bool printBottom = true);
-void Hangman(int guess)
+void Hangman(int guess);
 #endif

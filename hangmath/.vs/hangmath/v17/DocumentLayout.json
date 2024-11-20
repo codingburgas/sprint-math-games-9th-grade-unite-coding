@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\sprint-math-games-9th-grade-unite-coding\\hangmath\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A86EAC06-23F8-4DA3-87A3-A038620006CB}|hangmath\\hangmath.vcxproj|C:\\sprint-math-games-9th-grade-unite-coding\\hangmath\\hangmath\\HangmanGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A86EAC06-23F8-4DA3-87A3-A038620006CB}|hangmath\\hangmath.vcxproj|solutionrelative:hangmath\\HangmanGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F385702F-E3EB-41E2-9565-C3E657F4217C}|hangmath\\hangmath.vcxproj|C:\\sprint-math-games-9th-grade-unite-coding\\hangmath\\hangmath\\Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F385702F-E3EB-41E2-9565-C3E657F4217C}|hangmath\\hangmath.vcxproj|solutionrelative:hangmath\\Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A86EAC06-23F8-4DA3-87A3-A038620006CB}|hangmath\\hangmath.vcxproj|C:\\sprint-math-games-9th-grade-unite-coding\\hangmath\\hangmath\\HangmanGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A86EAC06-23F8-4DA3-87A3-A038620006CB}|hangmath\\hangmath.vcxproj|solutionrelative:hangmath\\HangmanGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F385702F-E3EB-41E2-9565-C3E657F4217C}|hangmath\\hangmath.vcxproj|C:\\sprint-math-games-9th-grade-unite-coding\\hangmath\\hangmath\\HangmanGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F385702F-E3EB-41E2-9565-C3E657F4217C}|hangmath\\hangmath.vcxproj|solutionrelative:hangmath\\HangmanGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A86EAC06-23F8-4DA3-87A3-A038620006CB}|hangmath\\hangmath.vcxproj|C:\\sprint-math-games-9th-grade-unite-coding\\hangmath\\hangmath\\Functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A86EAC06-23F8-4DA3-87A3-A038620006CB}|hangmath\\hangmath.vcxproj|solutionrelative:hangmath\\Functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F385702F-E3EB-41E2-9565-C3E657F4217C}|hangmath\\hangmath.vcxproj|C:\\sprint-math-games-9th-grade-unite-coding\\hangmath\\hangmath\\Functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F385702F-E3EB-41E2-9565-C3E657F4217C}|hangmath\\hangmath.vcxproj|solutionrelative:hangmath\\Functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A86EAC06-23F8-4DA3-87A3-A038620006CB}|hangmath\\hangmath.vcxproj|C:\\sprint-math-games-9th-grade-unite-coding\\hangmath\\hangmath\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A86EAC06-23F8-4DA3-87A3-A038620006CB}|hangmath\\hangmath.vcxproj|solutionrelative:hangmath\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F385702F-E3EB-41E2-9565-C3E657F4217C}|hangmath\\hangmath.vcxproj|C:\\sprint-math-games-9th-grade-unite-coding\\hangmath\\hangmath\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F385702F-E3EB-41E2-9565-C3E657F4217C}|hangmath\\hangmath.vcxproj|solutionrelative:hangmath\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A86EAC06-23F8-4DA3-87A3-A038620006CB}|hangmath\\hangmath.vcxproj|C:\\sprint-math-games-9th-grade-unite-coding\\hangmath\\hangmath\\Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A86EAC06-23F8-4DA3-87A3-A038620006CB}|hangmath\\hangmath.vcxproj|solutionrelative:hangmath\\Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F385702F-E3EB-41E2-9565-C3E657F4217C}|hangmath\\hangmath.vcxproj|C:\\sprint-math-games-9th-grade-unite-coding\\hangmath\\hangmath\\HangmanGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F385702F-E3EB-41E2-9565-C3E657F4217C}|hangmath\\hangmath.vcxproj|solutionrelative:hangmath\\HangmanGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,20 +30,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "HangmanGame.h",
               "DocumentMoniker": "C:\\sprint-math-games-9th-grade-unite-coding\\hangmath\\hangmath\\HangmanGame.h",
               "RelativeDocumentMoniker": "hangmath\\HangmanGame.h",
               "ToolTip": "C:\\sprint-math-games-9th-grade-unite-coding\\hangmath\\hangmath\\HangmanGame.h",
               "RelativeToolTip": "hangmath\\HangmanGame.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-20T17:56:50.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T19:13:19.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Functions.h",
+              "DocumentMoniker": "C:\\sprint-math-games-9th-grade-unite-coding\\hangmath\\hangmath\\Functions.h",
+              "RelativeDocumentMoniker": "hangmath\\Functions.h",
+              "ToolTip": "C:\\sprint-math-games-9th-grade-unite-coding\\hangmath\\hangmath\\Functions.h",
+              "RelativeToolTip": "hangmath\\Functions.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T19:13:09.285Z"
             },
             {
               "$type": "Document",
@@ -55,33 +66,19 @@
               "RelativeToolTip": "hangmath\\HangmanGame.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-20T17:56:07.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T19:12:57.735Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Functions.cpp",
               "DocumentMoniker": "C:\\sprint-math-games-9th-grade-unite-coding\\hangmath\\hangmath\\Functions.cpp",
               "RelativeDocumentMoniker": "hangmath\\Functions.cpp",
               "ToolTip": "C:\\sprint-math-games-9th-grade-unite-coding\\hangmath\\hangmath\\Functions.cpp",
               "RelativeToolTip": "hangmath\\Functions.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADQAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-20T17:51:19.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Functions.h",
-              "DocumentMoniker": "C:\\sprint-math-games-9th-grade-unite-coding\\hangmath\\hangmath\\Functions.h",
-              "RelativeDocumentMoniker": "hangmath\\Functions.h",
-              "ToolTip": "C:\\sprint-math-games-9th-grade-unite-coding\\hangmath\\hangmath\\Functions.h",
-              "RelativeToolTip": "hangmath\\Functions.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-20T17:50:57.385Z",
+              "WhenOpened": "2024-11-20T19:12:49.488Z",
               "EditorCaption": ""
             },
             {
@@ -92,10 +89,9 @@
               "RelativeDocumentMoniker": "hangmath\\main.cpp",
               "ToolTip": "C:\\sprint-math-games-9th-grade-unite-coding\\hangmath\\hangmath\\main.cpp",
               "RelativeToolTip": "hangmath\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-18T17:55:44.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T19:11:31.78Z"
             }
           ]
         }

@@ -1,39 +1,39 @@
-//all the functions needed for the program will be in here.
+// all the functions needed for the program will be in here.
 
 #include <iostream>
 #include "Functions.h"
 
 //function that will allow to write a message that is centered, and add borders.
 void Writemessage(string message, bool Top, bool Bottom) {
-	if (Top) 
+	if (Top)
 	{
 		cout << "|---------------------------------|" << endl;
 		cout << "|";
 	}
-	else 
+	else
 	{
 		cout << "|";
 	}
 
 	bool front = true;
-	while (message.length() < 33) 
+	while (message.length() < 33)
 	{
 		if (front)
 			message = " " + message;
 		else
 			message = message + " ";
-			front = !front;
-            }
-		cout << message;
-
-		if (Bottom) {
-			cout << "|" << endl;
-			cout << "|---------------------------------|" << endl;
-		}
-		else {
-			cout << "|" << endl;
-		}
+		front = !front;
 	}
+	cout << message;
+
+	if (Bottom) {
+		cout << "|" << endl;
+		cout << "|---------------------------------|" << endl;
+	}
+	else {
+		cout << "|" << endl;
+	}
+}
 //function to draw the hangman.
 void Hangman(int guess) { // guess is a variable that tracks mistakes.
 	Writemessage("|", false, false); // sets Top = false, Bottom = false.
