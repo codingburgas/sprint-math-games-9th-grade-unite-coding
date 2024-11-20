@@ -1,2 +1,2 @@
-#pragma once
-void wordGuess();
+//#pragma once
+//void wordGuess();

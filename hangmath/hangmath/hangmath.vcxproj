@@ -19,11 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Functions.cpp" />
+    <ClCompile Include="HangmanGame.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="wordGuess.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="wordGuess.h" />
+    <ClInclude Include="Functions.h" />
+    <ClInclude Include="HangmanGame.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

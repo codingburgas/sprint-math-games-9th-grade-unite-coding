@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 #include <cstdlib>
 #include <ctime>
 #include <vector>
@@ -39,4 +39,4 @@ void wordGuess() {
     else {
         cout << "The letter '" << letterToFind << "' is not found in the word." << std::endl;
     }
-}
+}*/
