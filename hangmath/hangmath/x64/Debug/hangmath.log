@@ -1,5 +1,7 @@
 ﻿  Functions.cpp
   HangmanGame.cpp
   main.cpp
+  Words.cpp
   Generating Code...
-  hangmath.vcxproj -> C:\sprint-math-games-9th-grade-unite-coding\hangmath\x64\Debug\hangmath.exe
+  LINK : C:\projects\sprint-math-games-9th-grade-unite-coding\hangmath\x64\Debug\hangmath.exe not found or not built by the last incremental link; performing full link
+  hangmath.vcxproj -> C:\projects\sprint-math-games-9th-grade-unite-coding\hangmath\x64\Debug\hangmath.exe
