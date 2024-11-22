@@ -1,3 +1,0 @@
-﻿  MainMenu.cpp
-MainMenu.obj : error LNK2005: main already defined in main.obj
-C:\Users\totot\Documents\projectmath\sprint-math-games-9th-grade-unite-coding\hangmath\x64\Debug\hangmath.exe : fatal error LNK1169: one or more multiply defined symbols found
