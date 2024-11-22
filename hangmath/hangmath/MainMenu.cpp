@@ -22,3 +22,18 @@ void displayMenu(int currentOption) {
     cout << "Use UP and DOWN arrow keys to navigate, ENTER to select.\n";
     cout << "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n";
 }
+int main() {
+
+    setlocale(LC_ALL, "");
+    int currentOption = 0;
+    char key;
+
+    while (true) {
+        displayMenu(currentOption);
+
+        key = _getch();
+
+        if (key == 72) { // UP arrow key
+            currentOption = (currentOption - 1 + 3) % 3; // Move up, wrap around
+        }
+        else if (key == 80) { // DOWN arrow key
