@@ -3,7 +3,7 @@
 
 using namespace std;
 
-void displayMenu(int currentOption);
-int Options();
+void Menu();
+
 
 #endif
