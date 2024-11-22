@@ -1,6 +1,7 @@
 
 <p align="center">
-     .
+     <img src="Documents/projectmath/sprint-math-games-9th-grade-unite-coding/READme/unite" alt="LOGO"/>
+
 </p>
     
 <h1 align="center"> UNT | Coding </h1>
