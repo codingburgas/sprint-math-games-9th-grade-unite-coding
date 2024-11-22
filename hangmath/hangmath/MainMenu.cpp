@@ -37,3 +37,23 @@ int main() {
             currentOption = (currentOption - 1 + 3) % 3; // Move up, wrap around
         }
         else if (key == 80) { // DOWN arrow key
+
+            currentOption = (currentOption + 1) % 3; // Move down, wrap around
+        }
+        else if (key == '\r') { // ENTER key
+            switch (currentOption) {
+            case 0:
+                cout << "Starting the game...\n";
+                //game
+                break;
+
+                break;
+            case 1:
+                cout << "Exiting program. Goodbye!\n";
+                return 0;
+            }
+        }
+    }
+
+
+}
