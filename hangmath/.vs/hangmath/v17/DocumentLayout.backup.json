@@ -59,8 +59,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-21T19:20:42.255Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -68,8 +67,8 @@
               "Title": "MainMenu.cpp",
               "DocumentMoniker": "C:\\sprint-math-games-9th-grade-unite-coding\\sprint-math-games-9th-grade-unite-coding\\hangmath\\hangmath\\MainMenu.cpp",
               "RelativeDocumentMoniker": "hangmath\\MainMenu.cpp",
-              "ToolTip": "C:\\sprint-math-games-9th-grade-unite-coding\\sprint-math-games-9th-grade-unite-coding\\hangmath\\hangmath\\MainMenu.cpp*",
-              "RelativeToolTip": "hangmath\\MainMenu.cpp*",
+              "ToolTip": "C:\\sprint-math-games-9th-grade-unite-coding\\sprint-math-games-9th-grade-unite-coding\\hangmath\\hangmath\\MainMenu.cpp",
+              "RelativeToolTip": "hangmath\\MainMenu.cpp",
               "ViewState": "AgIAACEAAAAAAAAAAAAAADAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-22T19:24:57.356Z",
@@ -86,8 +85,7 @@
               "RelativeToolTip": "hangmath\\MainMenu.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-22T19:25:40.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T19:25:40.399Z"
             },
             {
               "$type": "Document",
@@ -99,8 +97,7 @@
               "RelativeToolTip": "hangmath\\Words.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-21T19:20:11.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T19:20:11.941Z"
             },
             {
               "$type": "Document",
@@ -112,8 +109,7 @@
               "RelativeToolTip": "hangmath\\HangmanGame.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-20T19:13:19.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T19:13:19.437Z"
             },
             {
               "$type": "Document",
@@ -125,8 +121,7 @@
               "RelativeToolTip": "hangmath\\Functions.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-20T19:13:09.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T19:13:09.285Z"
             },
             {
               "$type": "Document",
@@ -138,8 +133,7 @@
               "RelativeToolTip": "hangmath\\HangmanGame.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-20T19:12:57.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T19:12:57.735Z"
             },
             {
               "$type": "Document",
@@ -151,8 +145,7 @@
               "RelativeToolTip": "hangmath\\Functions.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-20T19:12:49.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T19:12:49.488Z"
             },
             {
               "$type": "Document",

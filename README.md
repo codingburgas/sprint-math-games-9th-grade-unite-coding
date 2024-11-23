@@ -1,6 +1,4 @@
-
 ![Unite](https://github.com/user-attachments/assets/a8868998-b4c0-4f31-ad89-a57003c35278)
-
     
 <h1 align="center"> UNT | Coding </h1>
     
@@ -23,7 +21,7 @@
 <h2 id="about-the-project">About The Project</h2>
     
 <p align="justify">
-    What the project is about.
+Our project is a game made by using C++ programming language, it is a hangman-like game but instead of guessing any ordinary words you have to guess a math term.
 </p>
     
     
@@ -37,7 +35,7 @@
     
 |                               Main Menu                               |
 | :-------------------------------------------------------------------: | 
-| <img src="https://github.com/user-attachments/assets/06ce4961-010d-4857-ab97-3d44fb73e3c1">  |
+|![Main Menu](https://github.com/user-attachments/assets/78446342-283a-43f1-8159-a24f3032c396)
 
     
 </details>
@@ -54,7 +52,7 @@
 - <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" width="20" alt="MS PowerPoint Logo"> <a href="https://bg.wikipedia.org/wiki/Microsoft_PowerPoint">MS PowerPoint</a>
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/2203px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png" width="20" alt="MS Teams Logo"> <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software">MS Teams</a>
 -----------------------------------------------------------------------------------------------------------------------------------
-✅ Programing languages: <img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" width="20" alt="C++ Logo"> <a href="https://cplusplus.com/">C++</a>
+✅ Programing language used for our project: <img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" width="20" alt="C++ Logo"> <a href="https://cplusplus.com/">C++</a>
     
     
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -71,10 +69,8 @@
     
 <h2 id="download">Download</h2>
     
-<p>To download our project, clone our repository by pasting this command in your command prompt:</p>
+<p>If you liked what you saw, you can download our project by cloning the repository. Simply paste the following command into your command prompt:</p>
     
 <pre align="center">git clone "https://github.com/codingburgas/sprint-math-games-9th-grade-unite-coding.git"</pre>
 
 <hr>
-
-<h2 align="center">⭐️ Thanks for checking out our repo, show us some :heart: by giving our repo a ⭐️!</h2>
