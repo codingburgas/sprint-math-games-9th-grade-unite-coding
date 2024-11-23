@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cstdlib>
 #include <string>
 #include <conio.h>
 using namespace std;
@@ -43,7 +44,7 @@ void Menu() {
             case 1:
                 system("cls");
                 cout << "Exiting program. Goodbye!\n";
-                abort();
+                exit(0);      // exits the game...Lives in library "cstdlib"
             }
         }
     }
