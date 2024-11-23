@@ -37,7 +37,7 @@
     
 |                               Main Menu                               |
 | :-------------------------------------------------------------------: | 
-| Add screenshots of different pages functionalities of the game / app  |
+| <img src="https://github.com/user-attachments/assets/06ce4961-010d-4857-ab97-3d44fb73e3c1">  |
 
     
 </details>
@@ -54,7 +54,7 @@
 - <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" width="20" alt="MS PowerPoint Logo"> <a href="https://bg.wikipedia.org/wiki/Microsoft_PowerPoint">MS PowerPoint</a>
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/2203px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png" width="20" alt="MS Teams Logo"> <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software">MS Teams</a>
 -----------------------------------------------------------------------------------------------------------------------------------
-- :woman_technologist_tone1: Programing languages: <img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" width="20" alt="C++ Logo"> <a href="https://cplusplus.com/">C++</a>
+✅ Programing languages: <img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" width="20" alt="C++ Logo"> <a href="https://cplusplus.com/">C++</a>
     
     
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -62,11 +62,12 @@
 <!-- CONTRIBUTORS -->
 <h2 id="contributors">Contributors</h2>
     
-<p>
 
-Add contributors here.
-    
-</p>
+<p1>👉🏼Presiyan Kolev . 9A . Scrum trainer | PIKolev23@codingburgas.bg 👈🏼</p1><br>
+<p2>👉🏼Todor Toromanov . 9A . Front-end developer | TAToromanov23@codingburgas.bg 👈🏼<p2><br>
+<p3>👉🏼Aleksandar Kostov . 9A . Back-end developer | AGKostov23@codingburgas.bg 👈🏼<p3><br>
+<p4>👉🏼Damyan Tinchev . 9A . Designer | DLTinchev23@codingburgas.bg 👈🏼<p4><br>
+
     
 <h2 id="download">Download</h2>
     
@@ -76,4 +77,4 @@ Add contributors here.
 
 <hr>
 
-<h2 align="center">Thanks for checking out our repo, show us some :heart: by giving our repo a ⭐️!</h2>
+<h2 align="center">⭐️ Thanks for checking out our repo, show us some :heart: by giving our repo a ⭐️!</h2>
