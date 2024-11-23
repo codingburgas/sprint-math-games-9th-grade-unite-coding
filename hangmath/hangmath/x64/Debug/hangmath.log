@@ -1,2 +1,8 @@
-﻿  MainMenu.cpp
-  hangmath.vcxproj -> C:\projects2\sprint-math-games-9th-grade-unite-coding\hangmath\x64\Debug\hangmath.exe
+﻿  Functions.cpp
+  HangmanGame.cpp
+  MainMenu.cpp
+  Words.cpp
+  main.cpp
+  Generating Code...
+  LINK : C:\Users\totot\Documents\projectmath\sprint-math-games-9th-grade-unite-coding\hangmath\x64\Debug\hangmath.exe not found or not built by the last incremental link; performing full link
+  hangmath.vcxproj -> C:\Users\totot\Documents\projectmath\sprint-math-games-9th-grade-unite-coding\hangmath\x64\Debug\hangmath.exe
