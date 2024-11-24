@@ -2,6 +2,8 @@
 
 #include <iostream>
 #include "Functions.h"
+#include <windows.h>
+#include <conio.h>
 
 //function that will allow to write a message that is centered, and add borders.
 void Clearcmd() {
@@ -9,15 +11,24 @@ void Clearcmd() {
 		cout << " " << endl;
 	}
 }
+//function that will allow the change of colors.
+void Color(int textColor) {
+	HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
+	SetConsoleTextAttribute(hConsole, textColor);
+}
 
 void Writemessage(string message, bool Top, bool Bottom) {
 	if (Top)
 	{
-		cout << "|---------------------------------|" << endl;
+
+		Color(4);
+		cout << "|^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^|" << endl;
+		Color(6);
 		cout << "|";
 	}
 	else
 	{
+		Color(6);
 		cout << "|";
 	}
 
@@ -33,10 +44,13 @@ void Writemessage(string message, bool Top, bool Bottom) {
 	cout << message;
 
 	if (Bottom) {
+		Color(6);
 		cout << "|" << endl;
+		Color(6);
 		cout << "|---------------------------------|" << endl;
 	}
 	else {
+		Color(6);
 		cout << "|" << endl;
 	}
 }
